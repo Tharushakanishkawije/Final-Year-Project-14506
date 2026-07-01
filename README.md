@@ -275,22 +275,12 @@ The system was tested against simulated multi-vendor IoT devices using Linux VMs
 
 ---
 
-## 📄 Academic Information
-
-| Field | Details |
-|---|---|
-| Project Title | NetSpectre: Smart Home IoT Network Security Monitor |
-| Module | COM4901 — Final Year Project |
-| Institution | KIU — Kotelawala Defence University |
-| Faculty | Computer Science and Engineering |
-| Supervisor | [Supervisor Name] |
-| Student | [Your Name] — [Your ID] |
 
 ---
 
 ## 📝 License
 
-This project is developed for academic purposes at KIU. All rights reserved.
+This project is developed for academic purposes for 14506 . All rights reserved.
 
 ---
 
